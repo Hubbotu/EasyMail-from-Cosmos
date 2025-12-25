@@ -1,0 +1,22 @@
+## Interface: 11508, 50503, 110207
+## Title: EasyMail
+## Author: Yarko
+## Version: 5.1.6
+## IconTexture: Interface\AddOns\EasyMail\Images\Mail-Icon
+## Notes: Mail frame mod that allows the user to select addressees|nfrom a drop-down list and to automatically collect all|nattachments from all mails in the in-box
+## Notes-deDE: Mail frame mod that allows the user to select addressees|nfrom a drop-down list and to automatically collect all|nattachments from all mails in the in-box
+## Notes-frFR: Mail frame mod that allows the user to select addressees|nfrom a drop-down list and to automatically collect all|nattachments from all mails in the in-box
+## Notes-ruRU: Аддон для почты, позволяющий пользователю выбирать получателей|nиз выпадающего списка и для автоматического сбора всех|nвложений из всех писем во входящих
+## SavedVariables: EasyMail_SavedVars,EasyMail_Maillog
+localization.lua
+localization.de.lua
+localization.fr.lua
+localization.zhCN.lua
+localization.zhTW.lua
+localization.kr.lua
+localization.ruRU.lua
+EasyMail.lua
+EasyMail_Options.lua
+EasyMail.xml
+EasyMail_Options.xml
+
